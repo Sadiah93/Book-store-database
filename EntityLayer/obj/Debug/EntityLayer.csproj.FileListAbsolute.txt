@@ -1,0 +1,10 @@
+C:\Users\Sadiah\documents\visual studio 2012\Projects\Bookstoredb\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Sadiah\documents\visual studio 2012\Projects\Bookstoredb\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Sadiah\documents\visual studio 2012\Projects\Bookstoredb\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+C:\Users\Sadiah\documents\visual studio 2012\Projects\Bookstoredb\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Sadiah\documents\visual studio 2012\Projects\Bookstoredb\EntityLayer\obj\Debug\EntityLayer.pdb
+F:\American International University-Bangladesh\Visual Studio 2012\Projects\Bookstoredb\EntityLayer\bin\Debug\EntityLayer.dll
+F:\American International University-Bangladesh\Visual Studio 2012\Projects\Bookstoredb\EntityLayer\bin\Debug\EntityLayer.pdb
+F:\American International University-Bangladesh\Visual Studio 2012\Projects\Bookstoredb\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+F:\American International University-Bangladesh\Visual Studio 2012\Projects\Bookstoredb\EntityLayer\obj\Debug\EntityLayer.dll
+F:\American International University-Bangladesh\Visual Studio 2012\Projects\Bookstoredb\EntityLayer\obj\Debug\EntityLayer.pdb
